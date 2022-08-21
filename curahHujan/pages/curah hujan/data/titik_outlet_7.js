@@ -1,0 +1,1 @@
+var json_titik_outlet_7 = {"type":"FeatureCollection","name":"titik_outlet_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[111.96458355124895,0.2599999757905]}}]}
